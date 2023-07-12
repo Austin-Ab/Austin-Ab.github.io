@@ -15,10 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: Austin-Ab/Austin-Ab.github.io
-github_url: https://github.com/Austin-Ab
-url: http://www.Austin-Ab.com
-enforce_ssl: Austin-Ab.com
+repository: Austin-IT/Austin-IT.github.io
+github_url: https://github.com/Austin-IT
+url: http://www.Austin-IT.com
+enforce_ssl: Austin-IT.com
 
 ## Gem
 plugins:
